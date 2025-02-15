@@ -1,0 +1,27 @@
+{
+  "name": "hotelweb",
+  "version": "1.0.0",
+  "description": "��\r\u0000 \u0000",
+  "main": "booking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GanaviGahan/Hotel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GanaviGahan/Hotel/issues"
+  },
+  "homepage": "https://github.com/GanaviGahan/Hotel#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.12.0"
+  }
+}
